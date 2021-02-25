@@ -1,0 +1,15 @@
+DESKTOP-40D3S4G\Emre Tarih: 15.08.2020 13:34
+Error message: Alan, eklemeyi denediğiniz veri miktarını kabul edemeyecek kadar küçük. Daha az veri eklemeyi veya yapıştırmayı deneyin.
+Stack Trace:
+   konum: System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   konum: System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   konum: System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   konum: System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   konum: System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   konum: System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   konum: Core.DataAccess.Concrete.AccessAdonet.AccessEntityRepositoryBase`1.Insert(T entity) C:\Users\Emre\source\repos\MusteriHatirlatici\Core\DataAccess\Concrete\AccessAdonet\AccessEntityRepositoryBase.cs içinde: satır 35
+   konum: BusinessLogic.Concrete.CustomerManager.Insert(Customer customer) C:\Users\Emre\source\repos\MusteriHatirlatici\BusinessLogic\Concrete\CustomerManager.cs içinde: satır 50
+   konum: UI.WinForm.Form1.<btnInsertCustomer_Click>b__27_0() C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1.cs içinde: satır 65
+   konum: UI.WinForm.Form1.HandleException(Action action) C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1Methods.cs içinde: satır 23
+*********************************************
+

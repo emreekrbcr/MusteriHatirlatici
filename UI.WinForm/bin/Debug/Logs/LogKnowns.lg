@@ -1,0 +1,26 @@
+DESKTOP-40D3S4G\Emre Tarih: 15.08.2020 14:12
+Error message: Lütfen ilgili müşteriyi tablodan seçiniz
+Stack Trace:
+   konum: UI.WinForm.Form1.GetCustomerIDFromDgw() C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1Methods.cs içinde: satır 137
+   konum: UI.WinForm.Form1.<btnGetOperationsByCustomerID_Click>b__32_0() C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1.cs içinde: satır 114
+   konum: UI.WinForm.Form1.HandleException(Action action) C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1Methods.cs içinde: satır 23
+*********************************************
+
+DESKTOP-40D3S4G\Emre Tarih: 15.08.2020 14:16
+Error message: Hata kayıtları başarıyla gönderildi
+Stack Trace:
+   konum: Core.Tools.Feedback.Concrete.LogSender.SendMail() C:\Users\Emre\source\repos\MusteriHatirlatici\Core\Tools\Feedback\Concrete\LogSender.cs içinde: satır 80
+   konum: BusinessLogic.Tools.Feedback.Concrete.BusinessLogSender.SendMail() C:\Users\Emre\source\repos\MusteriHatirlatici\BusinessLogic\Tools\Feedback\Concrete\BusinessLogSender.cs içinde: satır 22
+   konum: UI.WinForm.Form1.<btnSendErrorLog_Click>b__42_0() C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1.cs içinde: satır 239
+   konum: UI.WinForm.Form1.HandleException(Action action) C:\Users\Emre\source\repos\MusteriHatirlatici\UI.WinForm\Form1Methods.cs içinde: satır 23
+*********************************************
+
+DESKTOP-4KV7KH9\Emre Tarih: 02.01.2021 10:29
+Error message: Hata kayıtları başarıyla gönderildi
+Stack Trace:
+   konum: Core.Tools.Feedback.Concrete.LogSender.SendMail() D:\Software\C#\part2\MusteriHatirlatici\Core\Tools\Feedback\Concrete\LogSender.cs içinde: satır 80
+   konum: BusinessLogic.Tools.Feedback.Concrete.BusinessLogSender.SendMail() D:\Software\C#\part2\MusteriHatirlatici\BusinessLogic\Tools\Feedback\Concrete\BusinessLogSender.cs içinde: satır 22
+   konum: UI.WinForm.Form1.<btnSendErrorLog_Click>b__42_0() D:\Software\C#\part2\MusteriHatirlatici\UI.WinForm\Form1.cs içinde: satır 239
+   konum: UI.WinForm.Form1.HandleException(Action action) D:\Software\C#\part2\MusteriHatirlatici\UI.WinForm\Form1Methods.cs içinde: satır 23
+*********************************************
+
