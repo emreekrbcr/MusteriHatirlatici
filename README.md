@@ -16,3 +16,5 @@ Ayrıca Özel panelinde Toplam yazan kısım Görüntülenen tabloda o an kaç s
 
 Burada arkadaşımın senaryosu müşterinin kombisi için bakım işlemi yapılması, müşteri için belirli bir miktar hesap ücretinin çıkması ve müşterinin bunun belirli bir miktarını ödeyebileceğiydi. Daha sonra bu kişiye belirli bir süre sonra örneğin 1 sene sonra tekrar bakım yaptıklarını belirtti. Dolayısıyla 1 sene sonra, örneğin akşamları programa baktıklarında; yarın veya 3 gün sonra bakıma gidecekleri kişileri kolayca takip etmek istediklerini belirtmişlerdi. Bu programda bu işlemleri yerine getirmektedir.
 
+Bu programda yazılımsal olarak bir hata bulunmamasına rağmen, önceden yazmış olduğum bir proje olduğu için sürdürülebilirlik bazı sıkıntılar vardır. Daha düzgün tekniklerle yazılmış bir proje için Northwind projesi repomu inceleyebilirsiniz. 
+
